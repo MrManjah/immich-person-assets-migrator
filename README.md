@@ -5,7 +5,7 @@ Ce script permet de récupérer les assets assignés à une personne spécifique
 ## Configuration
 
 1. Éditez le fichier `config.json` avec vos informations :
-   - `url`: L'URL de votre instance Immich (ex: "http://192.168.1.200:2283")
+   - `url`: L'URL de votre instance Immich (ex: "http://localhost:2283")
    - `my_x_api_key`: Votre clé API personnelle
    - `family_x_api_key`: La clé API de la bibliothèque familiale
    - `person_id`: L'ID de la personne (récupérable via l'API à l'adresse : `{{url}}/api/search/person?name=John`)
