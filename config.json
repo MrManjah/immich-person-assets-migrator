@@ -1,0 +1,6 @@
+{
+    "url": "http://localhost:2283",
+    "my_x_api_key": "Votre clé API personnelle",
+    "family_x_api_key": " La clé API de la bibliothèque familiale",
+    "person_id": "L'ID de la personne"
+}
